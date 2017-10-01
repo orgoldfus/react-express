@@ -9,7 +9,6 @@ yarn install
 ### Running the app
 ```bash
 yarn start
-//DEBUG=expressiso ./bin/www
 ```
 
 ### Building with webpack
